@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JonathanUrbinaCayetano/proyect-react.git/static/css/main.9de9ca94.css",
-    "main.js": "/JonathanUrbinaCayetano/proyect-react.git/static/js/main.1a65253b.js",
-    "static/js/453.2accbebf.chunk.js": "/JonathanUrbinaCayetano/proyect-react.git/static/js/453.2accbebf.chunk.js",
-    "index.html": "/JonathanUrbinaCayetano/proyect-react.git/index.html",
-    "main.9de9ca94.css.map": "/JonathanUrbinaCayetano/proyect-react.git/static/css/main.9de9ca94.css.map",
-    "main.1a65253b.js.map": "/JonathanUrbinaCayetano/proyect-react.git/static/js/main.1a65253b.js.map",
-    "453.2accbebf.chunk.js.map": "/JonathanUrbinaCayetano/proyect-react.git/static/js/453.2accbebf.chunk.js.map"
+    "main.css": "/proyect-react/static/css/main.9de9ca94.css",
+    "main.js": "/proyect-react/static/js/main.c5c0e208.js",
+    "static/js/453.2accbebf.chunk.js": "/proyect-react/static/js/453.2accbebf.chunk.js",
+    "index.html": "/proyect-react/index.html",
+    "main.9de9ca94.css.map": "/proyect-react/static/css/main.9de9ca94.css.map",
+    "main.c5c0e208.js.map": "/proyect-react/static/js/main.c5c0e208.js.map",
+    "453.2accbebf.chunk.js.map": "/proyect-react/static/js/453.2accbebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9de9ca94.css",
-    "static/js/main.1a65253b.js"
+    "static/js/main.c5c0e208.js"
   ]
 }
